@@ -50,4 +50,4 @@ jobs:
           app-name: 'fap-plus'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78625FD39B2D4341A6FA1EBBC5F3B9B3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6C2BDC3E1C6404AAEE634183A248BE1 }}
